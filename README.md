@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+  Building in the open — AI tools you can actually read. No install scripts, no telemetry. Works with Claude Code,
+  Cursor, Copilot, Gemini, Codex.
+
+  I build small, practical tools for AI-assisted coding and share the ones that prove useful in my own work. They're
+  drop-in and readable — clone them, see exactly what they do, adapt them to your setup.
+
+
 <!--
 **rs-ai/rs-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
