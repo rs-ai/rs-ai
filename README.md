@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-  Building in the open — AI tools you can actually read. No install scripts, no telemetry. Works with Claude Code,
+  Building in the open, AI tools you can actually read. No install scripts, no telemetry. Works with Claude Code,
   Cursor, Copilot, Gemini, Codex.
 
   I build small, practical tools for AI-assisted coding and share the ones that prove useful in my own work. They're
-  drop-in and readable — clone them, see exactly what they do, adapt them to your setup.
+  drop-in and readable, clone them, see exactly what they do, adapt them to your setup.
 
 
 <!--
